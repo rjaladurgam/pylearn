@@ -6,7 +6,7 @@ We will use the Anaconda Python 3.x distribution for this course. Anaconda is a 
 
 **IMPORTANT:** if you already have a Python installation on your Windows computer, the settings below will replace it with Anaconda as the default Python. 
 
-Download the Anaconda installer for Windows. Be sure to download the Python 3.7 version! (64-Bit version)
+Download the [Anaconda installer for Windows](https://www.anaconda.com/download/#windows). Be sure to download the Python 3.7 version! (64-Bit version)
 
 Run the installer by double-clicking on the downloaded file and follow the steps bellow:
 
