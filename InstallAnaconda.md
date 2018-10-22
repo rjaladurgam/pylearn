@@ -14,7 +14,7 @@ Run the installer by double-clicking on the downloaded file and follow the steps
 * Click on “Next”.
 * Click on “I agree”. Leave the selection on “Just me” and click on “Next”.
 * Click on “Next”.
-* Select the first option for “Add Anaconda to my PATH environment variable” and also leave the selection on “Register Anaconda as my default Python 3.6”. Click on “Install”.
+* Select the first option for “Add Anaconda to my PATH environment variable” and also leave the selection on “Register Anaconda as my default Python 3.7”. Click on “Install”.
 * When the install is complete, Click on “Next”.
 * Click on “Skip”.
 * Click on “Finish”.
